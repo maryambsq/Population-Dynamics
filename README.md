@@ -1,2 +1,2 @@
 # Population Dynamics in India
-## An Analytical Study
+An Anaytical Study
