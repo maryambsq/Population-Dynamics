@@ -15,3 +15,9 @@ Population Dynamics in India is a comprehensive data analytics project that aims
 - **Total Population Analysis**: Analyzes the overall population growth over time.
 - **Gender-wise Distribution**: Examines the distribution and trends in male and female populations.
 - **Age-wise Segmentation**: Investigates population trends across different age groups (0-14, 15-64, and 65+).
+
+## Technologies Used
+- **Python**: The primary programming language for data analysis.
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical operations.
+- **Matplotlib**: For creating visualizations.
