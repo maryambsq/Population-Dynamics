@@ -22,6 +22,8 @@ Population Dynamics in India is a comprehensive exploratory data analytics proje
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
 - **Matplotlib**: For creating visualizations.
+- **VS Code**: The integrated coding and development environment.
+
 
 
  📊🛠️🐍  
