@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
