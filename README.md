@@ -19,6 +19,9 @@ The project is structured as follows:
 - `datasets/`: Contains the datasets used for analysis.
 
 ## Features
+- Data Loading: To load datasets for analysis.
+- Data Cleaning and Preproccessing: To clean and prepare datasets for analysis.
+- Data Visualization: For creating visualizations such as line charts, bar graphs, and pie charts for data insights.
 
 
 ## Technologies Used
