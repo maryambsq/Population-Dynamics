@@ -34,7 +34,7 @@ The project is structured as follows:
 ## Usage
 1. Clone the repository.
 2. Install required Python libraries: `pandas`, `numpy`, and `matplotlib`.
-3. Place the datasets in the datasets directory.
+3. Place the datasets in the `datasets` directory.
 4. Run the analysis scripts:
    `total_population_analysis.py`
    `gender_wise_population_analysis.py`
