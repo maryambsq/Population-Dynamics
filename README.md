@@ -8,7 +8,7 @@
 - [Contributing](#contributing)
 
 ## Introduction
-Population Dynamics in India is a comprehensive exploratory data analytics project that aims to measure and analyze the population trends in India. Utilizing datasets available from various online sources, I have used Python libraries such as Pandas, NumPy, and Matplotlib; for data preparation, cleaning, analysis, and visualization. The project is structured to include common functions for data handling processes and specific analyses for total population, gender-wise distribution, and age-wise segmentation.
+Population Dynamics in India is a comprehensive exploratory data analytics project that aims to measure and analyze the population trends in India. Datasets were collected from various online sources. Python libraries such as Pandas, NumPy, and Matplotlib were used for data preparation, cleaning, analysis, and visualization. The project is structured to include common functions for data handling processes and specific analyses for total population, gender-wise distribution, and age-wise segmentation.
 
 ## Project Structure
 The project is structured as follows:
