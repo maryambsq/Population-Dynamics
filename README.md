@@ -25,11 +25,11 @@ The project is structured as follows:
 
 
 ## Technologies Used
+- **VS Code**: The integrated coding and development environment.
 - **Python**: The primary programming language for data analysis.
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
 - **Matplotlib**: For creating visualizations.
-- **VS Code**: The integrated coding and development environment.
 
 ## Usage
 1. Clone the repository.
